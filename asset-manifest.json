@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Kishan0431/travelocity.git/static/css/main.073c9b0a.css",
-    "main.js": "/Kishan0431/travelocity.git/static/js/main.b68d9103.js",
+    "main.css": "/Kishan0431/travelocity.git/static/css/main.99eccc7f.css",
+    "main.js": "/Kishan0431/travelocity.git/static/js/main.859ee52f.js",
     "static/js/787.8c9d8354.chunk.js": "/Kishan0431/travelocity.git/static/js/787.8c9d8354.chunk.js",
-    "static/media/logo.svg": "/Kishan0431/travelocity.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Kishan0431/travelocity.git/index.html",
-    "main.073c9b0a.css.map": "/Kishan0431/travelocity.git/static/css/main.073c9b0a.css.map",
-    "main.b68d9103.js.map": "/Kishan0431/travelocity.git/static/js/main.b68d9103.js.map",
+    "main.99eccc7f.css.map": "/Kishan0431/travelocity.git/static/css/main.99eccc7f.css.map",
+    "main.859ee52f.js.map": "/Kishan0431/travelocity.git/static/js/main.859ee52f.js.map",
     "787.8c9d8354.chunk.js.map": "/Kishan0431/travelocity.git/static/js/787.8c9d8354.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.b68d9103.js"
+    "static/css/main.99eccc7f.css",
+    "static/js/main.859ee52f.js"
   ]
 }
